@@ -1,0 +1,27 @@
+_repo: The-Life-of-Cesare-Borgia_3467
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sabatini, Rafael
+    alias: Sabatini, R.
+    birthdate: 1875
+    deathdate: 1950
+    gutenberg_agent_id: '640'
+    url: http://www.gutenberg.org/2009/agents/640
+    wikipedia: http://en.wikipedia.org/wiki/Rafael_Sabatini
+description: ''
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3467'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Borgia, Cesare, 1476?-1507'
+- !lcsh 'Renaissance -- Italy'
+- GITenberg
+title: The Life of Cesare Borgia
+url: http://www.gutenberg.org/ebooks/3467
